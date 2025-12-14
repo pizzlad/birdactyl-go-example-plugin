@@ -4,7 +4,7 @@ go 1.23.0
 
 toolchain go1.24.11
 
-require github.com/pizzlad/birdactyl-go-sdk v0.1.1
+require github.com/pizzlad/birdactyl-go-sdk v0.1.2
 
 require (
 	golang.org/x/net v0.29.0 // indirect
